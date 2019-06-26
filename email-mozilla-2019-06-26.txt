@@ -1,0 +1,93 @@
+Hello from Mozilla's Trust & Security Team,
+
+As promised, we wanted to follow-up on your email with feedback on our privacy notices.  Our Legal team has added your suggestions to our list of changes to consider as we update our notices going forward.  We plan to make updates in preparation for the California Consumer Privacy Act so reviews will be underway in the coming weeks.
+
+With respect to a page describing Chrome practices in comparison to Firefox, we do know that our marketing team has been discussing potential ways to make some of these differences more transparent to our users and our advocacy and policy teams have also been thinking about what, if anything, we can or should do - such as blog posts or other options. 
+
+We also wanted to let you know (in case you weren't aware) that if you are interested in these type of governance questions and sharing your ideas more broadly, you can join our governance group. 
+
+ We are always looking for ways to improve and make our notices clear, readable and understandable and it is helpful for us to hear your thoughts.  Thank you again for your suggestions and comments.
+
+On Fri, Jun 7, 2019 at 8:32 AM MozillaCompliance <compliance@mozilla.com> wrote:
+
+    Hello,
+    Yes, can confirm we did receive your email.  We've shared it with our Legal team and will work with them to review your comments.
+
+    We will be happy to let you know the outcome of that work once it is complete.
+
+    Thank you for your followup,
+    Mozilla's Trust & Security Team
+
+    On Fri, Jun 7, 2019 at 6:42 AM Chad G. <[REDACTED]> wrote:
+
+        Hello,
+
+        I am following up to check if my June 5, 2019 email was received and if
+        you have any feedback regarding my input.
+
+        Chad
+
+        On 6/5/2019 1:33 PM, Chad G. wrote:
+        > Hi,
+        >
+        > Hope your day is going well.
+        >
+        > I looked at your privacy statements a little bit today and noticed a
+        > few things:
+        >
+        > 1. Firefox's about:preferences#privacy says “We always ask permission
+        > before receiving personal information.” Shouldn’t “sending” be used
+        > rather than “receiving”? After spending some time configuring Firefox
+        > to be rather private, Fiddler confirms that Firefox idles with
+        > relatively no outbound communications, so sending may be the better
+        > term for this reason as well.
+        >
+        > 2. The corresponding page
+        > (https://www.mozilla.org/en-US/privacy/firefox/#health-report) says
+        > “Firefox by default shares data to”. If data is sent by default, does
+        > this contradict “We always ask permission…”? Maybe clarity is needed.
+        > The way this is worded, it may imply “By default, this is the type of
+        > data Firefox sends, but non-default data may be inclusive of
+        > mysterious stuff.” (I forget if Firefox asks appropriate permission
+        > upon installation, update, and from time-to-time.) It may be worth
+        > mentioning that the data sharing described in that section is not an
+        > exhaustive list of all data shared by Firefox and perhaps link to API
+        > documentation for various “sends.”
+        >
+        > 3. Define the duration of “temporary” data collection and if the
+        > temporary data is truly destroyed or recoverable. See
+        > https://www.mozilla.org/en-US/privacy/firefox/. The description on
+        > https://www.mozilla.org/en-US/privacy/ beginning with "We also don't
+        > want your personal information for any longer..." is vague.
+        >
+        > 4. In privacy documentation, “us” is inferred to be Mozilla, or
+        > Mozilla Corporation. Mozilla’s not-for-profit parent is the Mozilla
+        > Foundation. Is “us” inclusive of Mozilla Foundation? I think “us”
+        > needs defining (see https://www.mozilla.org/en-US/privacy/firefox/ and
+        > https://www.mozilla.org/en-US/privacy/). Seeing as Mozilla Foundation
+        > has a separate privacy page
+        > (https://www.mozilla.org/en-US/privacy/websites/) I assume “us” on the
+        > prior two pages excludes Mozilla Foundation, and I am not sure if that
+        > is your intention.
+        >
+        > 5. On https://www.mozilla.org/en-US/privacy/, under "What if we change
+        > this privacy policy or any of our privacy notices?", only blog posts
+        > and forums are explicitly mentioned. Not everyone visits Mozilla's
+        > blogs or forums. The paragraph goes on to bind acceptance of privacy
+        > changes. I am not sure how legally sound that is. Would it not be
+        > better to have a setting within Firefox like "Automatically notify me
+        > of any changes to Mozilla's privacy policies" that periodically checks
+        > for privacy policy changes? Perhaps this exists, but just a thought.
+        >
+        > Do you plan to put up a page describing Chrome data practices in
+        > comparison to Firefox? What about a page containing a list of Google
+        > websites/services that are crippled (i.e. known issues) on Firefox for
+        > no good reason? It may be useful to increase your user base and put a
+        > bit of pressure on Google. I appreciate the high-road approach with
+        > your Manifesto, but maybe it’s better to be more direct with the
+        > latest developments (i.e. Chrome ad blocking API changes).
+        >
+        > Thanks for your commitments and hard work.
+        >
+        > Chad
+        >
